@@ -35,3 +35,4 @@ A basic User Management system built with **Laravel 12**, featuring role-based a
    ```bash
    git clone https://github.com/ashna0204/user_management.git
    cd user-management
+   php artisan serve
